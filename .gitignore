@@ -10,3 +10,5 @@ mvnw
 mvnw.cmd
 
 /*/.gitignore
+
+**/application-prod.properties
