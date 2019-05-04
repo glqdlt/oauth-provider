@@ -3,3 +3,10 @@
 .idea
 
 *.iml
+
+**/.mvn
+
+mvnw
+mvnw.cmd
+
+/*/.gitignore
